@@ -1,0 +1,38 @@
+.pageHeader {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: X-Large;
+    background: #ff8888;
+    
+}
+
+.rep {
+    flex-basis: 16%;
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center;
+}
+
+#rep__name{
+    font-size: X-Large;
+    font-style: italic;
+}
+
+#rep__affiliation {
+    background: #ff8888;
+}
+
+#rep__district{
+    background: #ff8888;
+}
+
+#rep__committees{
+    background: #ff8888;
+}
+
+#rep_legislation{
+    background: #ff8888;
+}
+
